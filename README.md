@@ -4,7 +4,7 @@ This is a web based application developed for health related based website in in
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-**Project Link** -https://ambitious-tree-0f11a2310.2.azurestaticapps.net
+**Project Link** - https://green-cliff-06d26f100.2.azurestaticapps.net
 
 **project demo video link** - 
 
